@@ -2,6 +2,7 @@ package com.github.kazuhito_m.twitterbattler.primitive;
 
 import org.junit.Test;
 
+import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;
 
 /**
@@ -10,6 +11,6 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
-        assertEquals(4, 2 + 2);
+        assertThat("同じ" , is("同じ"));
     }
 }

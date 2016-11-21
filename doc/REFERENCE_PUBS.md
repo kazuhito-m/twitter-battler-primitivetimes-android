@@ -9,8 +9,11 @@
 ## Android
 
 - [入門の入門](https://blog.techstars.jp/android-tuto/)
-- [Androidアプリを作る際の30のこと](https://android.benigumo.com/20160421/%E8%8B%A6%E5%8A%B4%E3%81%97%E3%81%9F%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E5%AD%A6%E3%82%93%E3%81%A0-android%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B%E9%9A%9B%E3%81%AE30%E3%81%AE%E3%81%93/)
+- [Androidアプリを作る際の30のこと ](https://android.benigumo.com/20160421/%E8%8B%A6%E5%8A%B4%E3%81%97%E3%81%9F%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E5%AD%A6%E3%82%93%E3%81%A0-android%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B%E9%9A%9B%E3%81%AE30%E3%81%AE%E3%81%93/)
 
+## About test
+
+- [Androidの二種類のテスト](http://java-lang-programming.com/ja/articles/15)
 
 ## IDE
 
